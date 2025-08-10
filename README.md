@@ -29,6 +29,8 @@ Mesmo no começo da minha jornada como desenvolvedor, já estou construindo solu
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souuza-dev&layout=compact&langs_count=6&theme=github_dark&show_icons=true)
+
 ### 👨‍💻 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussalves/)
